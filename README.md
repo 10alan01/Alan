@@ -48,10 +48,23 @@ Neste perfil, compartilho:
 
 ## 📫 Contato
 
-- **GitHub:** [Meu perfil no GitHub](https://github.com/SEU-USUARIO)
-- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/SEU-PERFIL/)
+- **GitHub:** 10alan01
+- **LinkedIn:** www.linkedin.com/in/alan-cassio-dos-santos-silva-7947ba360
 
 ---
+### Reflexão sobre o Benchmarking dos perfis profissionais
+
+Durante a análise dos perfis profissionais no GitHub, identifiquei algumas práticas importantes para a construção de uma identidade profissional na área de tecnologia. Um dos principais padrões observados foi a utilização de apresentações objetivas, mostrando a área de atuação, as tecnologias utilizadas e os principais interesses de cada desenvolvedor.
+
+Também percebi que os profissionais utilizam os repositórios fixados para destacar seus projetos mais relevantes, facilitando o acesso de quem visita seus perfis. Outro ponto importante foi a organização dos arquivos README.md, que apresentam informações sobre o funcionamento dos projetos, as tecnologias utilizadas e as instruções para instalação e execução.
+
+Observei ainda a importância dos projetos Open Source, das contribuições para a comunidade e da utilização de arquivos como LICENSE e .gitignore.
+
+Com base nessa pesquisa, pretendo aplicar essas boas práticas no meu próprio GitHub, utilizando uma apresentação profissional, organizando meus projetos e melhorando a documentação dos meus trabalhos acadêmicos. Como estudante do terceiro semestre de ADS, meu objetivo é construir um portfólio que demonstre minha evolução no Desenvolvimento Full Stack, destacando tanto meus conhecimentos em Front-end quanto meu aprendizado em Back-end.
+
+Concluo que o GitHub não deve ser utilizado apenas para armazenar códigos, mas também como uma ferramenta de aprendizado, colaboração e apresentação profissional.
+
+
 
 ⭐ Obrigado por visitar meu perfil! Fique à vontade para conhecer meus projetos e acompanhar minha evolução na área de tecnologia.
 
