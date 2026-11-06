@@ -50,6 +50,7 @@ Neste perfil, compartilho:
 
 - **GitHub:** 10alan01
 - **LinkedIn:** www.linkedin.com/in/alan-cassio-dos-santos-silva-7947ba360
+- **Gmail** alancassiodossantossilva@gmail.com
 
 ---
 ### Reflexão sobre o Benchmarking dos perfis profissionais
